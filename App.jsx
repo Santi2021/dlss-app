@@ -4,7 +4,7 @@ import {
   computeTorqueDrag, validateBHA, computeStability,
   computeFatigue, computeFracturePropagation,
   DEFAULT_STATIONS, DEFAULT_BHA, DEFAULT_FORMATION, MATERIALS,
-} from './engine/physics.js';
+} from './physics.js';
 import {
   LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid,
   Tooltip, ResponsiveContainer, ReferenceLine, Cell, AreaChart, Area,
